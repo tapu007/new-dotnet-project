@@ -31,11 +31,14 @@ namespace EmployeeManagementApp.Controllers
             return View();
 
         }
-
-        public IActionResult Search()
+        [HttpPost]
+        public string Search(string name)
         {
 
-            return View();
+
+
+            return "hello";
+
 
         }
 
