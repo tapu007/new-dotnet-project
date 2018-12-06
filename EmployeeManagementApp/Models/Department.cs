@@ -11,6 +11,7 @@ namespace EmployeeManagementApp.Models
         public string Name { get; set; }
         public List<Employee>Employees { get; set; }
         public  string Code { get; set; }
+        public int Pnone { get; set; }
 
 
 
