@@ -12226,11 +12226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\git\\myProject\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
       "projectName": "EmployeeManagementApp",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\git\\myProject\\EmployeeManagementApp\\EmployeeManagementApp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EmployeeManagementApp\\EmployeeManagementApp\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\git\\myProject\\EmployeeManagementApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
